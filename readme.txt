@@ -1,0 +1,1 @@
+Details about local LocalRepo
